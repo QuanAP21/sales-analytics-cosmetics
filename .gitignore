@@ -1,0 +1,33 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Env
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ML models
+*.pkl
+*.joblib
+
+# Data
+data/raw/
+data/processed/
+data/generated/
+data/sample/
+
+# Logs
+logs/
+*.log
+
+# System
+.DS_Store
+Thumbs.db
